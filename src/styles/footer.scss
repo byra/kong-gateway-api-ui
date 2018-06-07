@@ -1,0 +1,14 @@
+@import "index";
+$bg-color: #002844;
+$font-color: #ffffff;
+$height: 5.5vh;
+
+.footer-bar{
+  background-color:$bg-color;
+  height: $height;
+
+  p{
+    font-family:"source sans pro", Helvetica, Segoe, Arial, sans-serif;
+    color: $font-color;
+  }
+}

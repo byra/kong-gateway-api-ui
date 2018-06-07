@@ -1,0 +1,16 @@
+@import "index";
+
+$bg-color: #002844;
+$height: 5.5vh;
+$font-color: #ffffff;
+
+.title-bar{
+  background-color:$bg-color;
+  height: $height;
+  width: 100%;
+
+  p{
+    font-family:"source sans pro", Helvetica, Segoe, Arial, sans-serif;
+    color: $font-color;
+  }
+}
